@@ -5,9 +5,9 @@
 
 ## インストール方法
 ```bash
-$ git clone [https://github.com/kuyakitahara/my-cmd.git]
-$ (https://github.com/kuyakitahara/my-cmd.git)
-$ cd my-cmd$ chmod +x darts-out
+$ git clone [https://github.com/kuyakitahara/my-cmd.git](https://github.com/kuyakitahara/my-cmd.git)
+$ cd my-cmd
+$ chmod +x darts-out
 ```
 
 ## 使い方
